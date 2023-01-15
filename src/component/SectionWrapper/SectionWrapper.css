@@ -1,0 +1,7 @@
+.section-wrapper{
+    background-color: var(--color-darkest);
+    color: #fff;
+    border-radius: var(--border-radius-primary);
+    padding: var(--padding-primary);
+    margin-top: var(--margin-primary);
+}
